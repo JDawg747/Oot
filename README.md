@@ -2,9 +2,6 @@
 ## Script Purpose
 This script replaces all vowels in the inputted string with the phrase 'oot'
 
-## Usage
-To run the script from a web browser, navigate to the [repl.it.](https://replit.com/@Josh770856/Oot#oot.py) Website will be available in 2023!
-
 ### Script Download
 In order to ootify phrases as needed on your personal device, simply download the Python script.
 
